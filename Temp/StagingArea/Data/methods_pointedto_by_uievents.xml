@@ -1,0 +1,17 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="LoadScene">
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+			<method name="Change"/>
+		</type>
+		<type fullname="Scene">
+			<method name="Change"/>
+			<method name="Change"/>
+		</type>
+	</assembly>
+</linker>

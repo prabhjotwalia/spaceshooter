@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - EnemyBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BusterBullet
+  - playerShip1_blue
+  - EnemyBullet
+  - enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 1035847497
+    locked: 0
+  - name: fill
+    uniqueID: 1850066981
+    locked: 0
+  - name: plateform
+    uniqueID: 1959998931
+    locked: 0
+  - name: Stars
+    uniqueID: 4243190909
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
